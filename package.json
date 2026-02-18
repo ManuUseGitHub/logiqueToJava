@@ -1,0 +1,17 @@
+{
+  "name": "intro",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "prepare": "chmod -R +x ./scripts; ./scripts/prepare.sh",
+    "build": "./scripts/build.sh",
+    "run": "./scripts/run.sh"
+  },
+  "dependencies": {
+    "to-camel-case": "^1.0.0"
+  }
+}

@@ -1,0 +1,50 @@
+[
+    {
+		"end": 6,
+		"title": "Gestion des variables"
+    },
+    {
+		"end": 13,
+		"title": "Rédaction d'expression booléennes"
+    },
+    {
+		"end": 5,
+		"title": "Rédaction d'alternatives simples et composées"
+    },
+    {
+		"end": 5,
+		"title": "Rédactions de boucles : 'tant que'"
+    },
+    {
+		"end": 5,
+		"title": "Rédactions de boucles : 'pour' et 'jusqu à ce que'"
+    },
+    {
+		"end": 8,
+		"title": "Manipulation des textes et des caractères"
+    },
+    {
+		"end": 7,
+		"title": "Manipulation des textes et des vecteurs"
+    },
+    {
+		"end": 1,
+		"title": "Récapitulatif première partie"
+    },
+    {
+		"end": 4,
+		"title": "Rédactions de boucles imbriquées"
+    },
+    {
+		"end": 6,
+		"title": "Manipulation de tableaux à 2 dimensions"
+    },
+    {
+		"end": 1,
+		"title": "Manipulation de structure"
+    },
+    {
+		"end": 1,
+		"title": "Rédaction de sous-programmes"
+    }
+]
