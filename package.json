@@ -7,11 +7,18 @@
   "type": "module",
   "main": "index.js",
   "scripts": {
-    "prepare": "chmod -R +x ./scripts; ./scripts/prepare.sh",
-    "build": "./scripts/build.sh",
-    "run": "./scripts/run.sh"
+    "prepare": "node scaffold/prepare.js",
+    "build": "javac -d build --source-path src src/be/technifutur/exercices/logiqueDeProgrammation/**/*.java",
+    "run": "node run.js",
+    "watch": "gulp"
   },
   "dependencies": {
+    "gulp": "^5.0.1",
+    "hound": "^1.0.5",
+    "reargv": "^1.0.2",
     "to-camel-case": "^1.0.0"
+  },
+  "devDependencies": {
+    "gulp-shell": "^0.8.0"
   }
 }

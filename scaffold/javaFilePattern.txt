@@ -1,4 +1,4 @@
-package be.technifutur.exercices.logiqueDeProgrammation;
+package be.technifutur.exercices.logiqueDeProgrammation.__FOLDER__;
 
 public class __CLASS_NAME__ {
 	public static void main(String[] args) {

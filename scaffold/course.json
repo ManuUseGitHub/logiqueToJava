@@ -46,5 +46,13 @@
     {
 		"end": 1,
 		"title": "Rédaction de sous-programmes"
+    },
+    {
+      "end" : 3,
+      "title": "Rédaction de listes variables"
+    },
+    {
+      "end": 1,
+      "title": "Les expression régulières"
     }
 ]

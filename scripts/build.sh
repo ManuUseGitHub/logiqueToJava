@@ -1,1 +1,0 @@
-javac -d build --source-path src src/be/technifutur/exercices/logiqueDeProgrammation/*.java
